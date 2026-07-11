@@ -10,8 +10,8 @@ build a strong foundation for **Data Structures and Algorithms**.
 ---
 
 ## 🧠 Concepts Practiced
--- Input and Output 
--- Will Update soon
+- Input and Output 
+- Will Update soon
 
 ---
 
